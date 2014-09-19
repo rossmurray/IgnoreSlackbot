@@ -1,7 +1,7 @@
 IgnoreSlackbot
 ==============
 
-Tampermonkey script to ignore slackbot on slack.com
+Tampermonkey script to ignore Slack Bot on [slack.com](https://slack.com/). Slack Bot will no longer show up in any channel, and their messages will be marked as read immediately.
 
 [Tampermonkey](http://tampermonkey.net/) is a greasemonkey-like extension for Google Chrome, which allows you to add javascript to particular pages.
 
